@@ -2,19 +2,19 @@
 "error":false,
 "music":true,
 "magicalrectangle":"309075623971819_321377702741611",
-"data": [
+"banner": [
 {
-"name": "Photo resize app in kb - Resize Photo in Kb",
+"name": "banner1",
 "playstorLink": "https://play.google.com/store/apps/details?id=resizephotoinkb.resizephotoinkb.resizephotoinkb",
 "imgURL": "https://play-lh.googleusercontent.com/aeu0hAfHDkN8OvR7_sfG0x_OAYyIVV3BSr8vDL_ed8Dw-2hrTEwHD-3jnd4OX4pijXc=s80"
 },
 {
-"name": "Movie downloader free",
+"name": "banner2",
 "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
 "imgURL": "https://play-lh.googleusercontent.com/GScKH8wfDzytrFMN9-zuEN51s70mXjUiBQOC5Y_VvkG63NA6zpjoA98x37dSqaX4XCg=s80"
 },
 {
-"name": "Movie downloader free",
+"name": "banner3",
 "playstorLink": "https://play.google.com/store/apps/details?id=com.moviedownloaderfree.showmovie",
 "imgURL": "https://play-lh.googleusercontent.com/GScKH8wfDzytrFMN9-zuEN51s70mXjUiBQOC5Y_VvkG63NA6zpjoA98x37dSqaX4XCg=s80"
 },
