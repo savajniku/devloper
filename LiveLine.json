@@ -1,0 +1,49 @@
+{
+  "message": "Templates",
+  "data": [
+    {
+      "id": 1,
+      "name": "IND VS PAK",
+      "templates": [
+        {
+          "title": "Fox Cricket",
+          "video_url": "http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8"
+        },
+	{
+          "title": "Sony Six HD",
+          "video_url": "http://208.86.19.21/740.stream/index.m3u8"
+        },
+	{
+          "title": "Sony Ten1 HD",
+          "video_url": "http://208.86.19.21/726.stream/index.m3u8"
+        },
+	{
+          "title": "Willow HD",
+          "video_url": "http://208.86.19.21/731.stream/index.m3u8"
+        }, 
+	 {
+          "title": "Geo Super",
+          "video_url": "http://221.120.204.4/geo-super-LOCKLE/index.m3u8"
+        },     
+        {
+          "title": "Astro Sport",
+          "video_url": "http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "AUS VS SA",
+      "templates": [
+        {
+          "title": "Strar Sport 1Hd",
+          "video_url": "http://208.86.19.21/710.stream/index.m3u8"
+        },
+        {
+          "title": "Ptv Sport",
+          "video_url": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8"
+        }
+      ]
+    }
+  ]
+}
