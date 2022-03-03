@@ -6,12 +6,12 @@
       "name": "IND VS PAK",
       "templates": [
         {
-          "title": "Fox Cricket",
-          "video_url": "http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8"
+          "title": "sonysix",
+          "video_url": "http://live.flixhub.net/hls/sonysix.m3u8"
         },
 	{
-          "title": "Sony Six HD",
-          "video_url": "http://208.86.19.21/740.stream/index.m3u8"
+          "title": "stersports1hd",
+          "video_url": "http://live.flixhub.net/hls/stersports1hd.m3u8"
         },
 	{
           "title": "Sony Ten1 HD",
