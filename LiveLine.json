@@ -6,12 +6,12 @@
       "name": "IND VS PAK",
       "templates": [
         {
-          "title": "sonysix",
-          "video_url": "http://live.flixhub.net/hls/sonysix.m3u8"
+          "title": "Server 1",
+          "video_url": "http://103.149.130.122:8089/73/index.m3u8"
         },
 	{
-          "title": "stersports1hd",
-          "video_url": "http://live.flixhub.net/hls/stersports1hd.m3u8"
+          "title": "Server 2",
+          "video_url": "http://myott.top/stream/1VGPHYLZTH/235.m3u8"
         },
 	{
           "title": "Sony Ten1 HD",
@@ -36,8 +36,8 @@
       "name": "AUS VS SA",
       "templates": [
         {
-          "title": "Strar Sport 1Hd",
-          "video_url": "http://208.86.19.21/710.stream/index.m3u8"
+          "title": "Server 1",
+          "video_url": "http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8"
         },
         {
           "title": "Ptv Sport",
