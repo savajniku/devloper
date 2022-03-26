@@ -3,45 +3,45 @@
   "data": [
     {
       "id": 1,
-      "name": "IND VS PAK",
+      "name": "Cricket 1",
       "templates": [
         {
           "title": "Server 1",
-          "video_url": "http://103.149.130.122:8089/73/index.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=5770"
         },
 	{
           "title": "Server 2",
-          "video_url": "http://myott.top/stream/1VGPHYLZTH/235.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=6790"
         },
 	{
           "title": "Server 3",
-          "video_url": "http://103.149.130.122:8089/28/index.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=22144"
         },
 	{
           "title": "Server 4",
-          "video_url": "http://178.218.196.218:8000/play/a00c/index.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=18458"
         }, 
 	 {
           "title": "Server 5",
-          "video_url": "http://103.149.130.122:8089/73/index.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=18285"
         },     
         {
           "title": "Server 6",
-          "video_url": "https://prod-ec-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/7XFejN74dnMhxWsXJdkYu3s8-TH2ZLsf7JlGcZiMtNJmbamKaCBzlQhAu0Ia469rf6GFW2Q0HFvSNvuSOy_zhQ/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=22154"
         }
       ]
     },
     {
       "id": 2,
-      "name": "AUS VS SA",
+      "name": "Cricket 2",
       "templates": [
         {
           "title": "Server 1",
-          "video_url": "http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=15521"
         },
         {
           "title": "Server 2",
-          "video_url": "http://178.218.196.218:8000/play/a00c/index.m3u8"
+          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=22154"
         }
       ]
     }
