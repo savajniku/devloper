@@ -5,21 +5,21 @@
       "id": 1,
       "name": "Cricket 1",
       "templates": [
-        {
+	{
           "title": "Server 1",
+          "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
+        },
+        {
+          "title": "Server 2",
           "video_url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8?token=@LiveTvLinksForFree"
         },
 	{
-          "title": "Server 2",
+          "title": "Server 3",
           "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
         },
 	{
-          "title": "Server 3",
-          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=22144"
-        },
-	{
           "title": "Server 4",
-          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=18458"
+          "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
         }, 
 	 {
           "title": "Server 5",
@@ -27,7 +27,7 @@
         },     
         {
           "title": "Server 6",
-          "video_url": "https://voxlive.jokertvapp.club/staklive.m3u8?id=22154"
+          "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
         }
       ]
     },
@@ -37,7 +37,7 @@
       "templates": [
         {
           "title": "Server 1",
-          "video_url": "https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8"
+          "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
         },
         {
           "title": "Server 2",
