@@ -7,7 +7,7 @@
       "templates": [
 	{
           "title": "Server 1",
-          "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
+          "video_url": "https://vsd155.mycdn.me/hls/2832445409991.m3u8/sig/Usjxynq1Y3E/expires/1661667646351/srcIp/37.120.202.212/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3802698227399/2832445409991_high/index.m3u8"
         },
         {
           "title": "Server 2",
@@ -37,7 +37,7 @@
       "templates": [
         {
           "title": "Server 1",
-          "video_url": "https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8"
+          "video_url": "https://vsd155.mycdn.me/hls/2832445409991.m3u8/sig/Usjxynq1Y3E/expires/1661667646351/srcIp/37.120.202.212/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3802698227399/2832445409991_high/index.m3u8"
         },
         {
           "title": "Server 2",
