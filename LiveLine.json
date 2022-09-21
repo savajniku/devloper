@@ -7,7 +7,7 @@
       "templates": [
 	{
           "title": "Server 1",
-          "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=st=1663750449~exp=1663750749~acl=*~id=62b9ec43-ca18-45b5-a458-9f0faf5cdb15~hmac=281f667f4064408ccfc0415fba6e50c4cacde8a10f95b70e88376e84ce005512&originpath=/linear/hls/pb/event/8cov9tHQRj26xm-Qz6uWzQ/stream/39e7ba69-ae05-4415-8b62-3aa4193b9baf:TPE2/master.m3u8"
+          "video_url": "https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8"
         },
         {
           "title": "Server 2",
