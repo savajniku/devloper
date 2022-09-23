@@ -7,7 +7,7 @@
       "templates": [
 	{
           "title": "Server 1",
-          "video_url": "https://tv.googledrivelinks.com/play.php?c=Six_HD&q=600&e=junk.m3u8"
+          "video_url": "http://31.172.87.20:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT"
         },
         {
           "title": "Server 2",
