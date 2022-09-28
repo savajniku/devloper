@@ -11,7 +11,7 @@
         },
         {
           "title": "Server 2",
-          "video_url": "http://quality-restream.com:8080/live/asadmanzur/39e379b23d/16619.m3u8"
+          "video_url": "https://d3cfw2mckicdfw.cloudfront.net/a3ead3e6a55fcb10032184f4685da7a50473b3ff/chunklist_source/chunklist.m3u8"
         },
 	{
           "title": "Server 3",
